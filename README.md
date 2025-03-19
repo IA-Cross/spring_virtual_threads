@@ -15,7 +15,6 @@ Tomcat server is limited to only 10 threads.
 ## Requirements
 - Java 21+
 - Maven 3+
-- PostgreSQL with pgvector extension
 - Docker (optional, for deployment)
 
 ## Installation
